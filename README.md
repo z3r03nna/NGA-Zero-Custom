@@ -1,5 +1,6 @@
 # NGA Zero Custom
 
+If you see this on github, this is a readonly mirror of the real repo. Do not try to change code here.
 
 ## Fixes:
 
