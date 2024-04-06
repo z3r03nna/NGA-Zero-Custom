@@ -1,0 +1,10 @@
+name = "NGA Zero Customization"
+prefix = "nga_zero_custom"
+author = "[101st.AD] Zero"
+mainprefix = "z"
+
+[version]
+major = 0
+minor = 0
+patch = 1
+build = 1
